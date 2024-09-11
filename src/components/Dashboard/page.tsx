@@ -4,7 +4,7 @@ import BookCard from "../BookCard";
 
 const Dashboard: React.FC = () => {
   return (
-    <div className="flex min-h-[100vh]">
+    <div className="flex min-h-[100vh] flex-col lg:flex-row">
       <BookCard
         link={"/daniel"}
         description={
