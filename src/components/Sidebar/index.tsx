@@ -35,7 +35,7 @@ const menuGroups = [
           <Image
             width={26}
             height={32}
-            src={"/images/book.svg"}
+            src={"/assets/svg/book.svg"}
             alt="Logo"
             priority
           />
@@ -49,7 +49,7 @@ const menuGroups = [
           <Image
             width={26}
             height={32}
-            src={"/images/book.svg"}
+            src={"/assets/svg/book.svg"}
             alt="Logo"
             priority
           />
