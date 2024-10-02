@@ -1,16 +1,34 @@
+"use client";
+import React, { memo, useState } from "react";
+import Beasts from "@/components/Beasts";
+import {
+  Identifiers,
+  StatueIdentifiers,
+} from "../../../../public/shared/identifiers";
 import DefaultLayout from "@/components/Layouts/DefaultLayout";
-import React, { memo } from "react";
 
 const Chapter7 = () => {
+  const [identifier, setIdentifier] = useState(StatueIdentifiers.Babylon);
+  const handleSetIdentifier = (newIdentifier: Identifiers) => {
+    setIdentifier(newIdentifier as StatueIdentifiers);
+  };
+
   return (
     <DefaultLayout>
-      <div className="min-h-[100vh] p-4">
+      <div className="p-4">
         <h2 className="mb-3 border-b pb-4 text-center text-3xl font-extrabold">
-          Capitulo 1
+          Visión de las 4 bestias
         </h2>
-        <p className="mb-3">Descripcion</p>
-        <div className="rounded-lg">
-          <h2 className="mb-5 text-2xl font-extrabold">Datos interesantes</h2>
+        <Beasts
+          setIdentifier={handleSetIdentifier}
+          identifierSelected={identifier}
+        />
+        <div
+          className={`static left-0 top-0 m-4 flex flex-col overflow-y-auto overflow-x-hidden rounded-md bg-white p-4`}
+        >
+          <div className="relative flex-auto text-sm lg:text-base">
+            {identifier}
+          </div>
         </div>
       </div>
     </DefaultLayout>

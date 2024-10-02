@@ -1,31 +1,18 @@
 import React, { memo } from "react";
 
-import Link from "next/link";
-
 interface CardProps {
   link: string;
   description: string;
   title: string;
-  buttonTitle: string;
 }
 
-const BookCard: React.FC<CardProps> = ({
-  link,
-  title,
-  description,
-  buttonTitle,
-}) => {
+const BookCard: React.FC<CardProps> = ({ title, description }) => {
   return (
-    <div className="container">
-      <div className="m-auto h-96 overflow-auto p-4">
-        <p className="p-8 text-5xl font-bold">{title}</p>
-        <p className="block border-t p-8 text-justify text-base">
-          {description}
-        </p>
+    <div className="mx-auto flex-1 overflow-hidden rounded-xl bg-white shadow-md transition-shadow duration-300 hover:shadow-lg">
+      <div className="p-6">
+        <h2 className="text-gray-900 mb-4 text-2xl font-extrabold">{title}</h2>
+        <p className="text-gray-700 mb-6 text-justify">{description}</p>
       </div>
-      <Link href={link} className="m-auto block w-32 text-center font-bold ">
-        {buttonTitle}
-      </Link>
     </div>
   );
 };

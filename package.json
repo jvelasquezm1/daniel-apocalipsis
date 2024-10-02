@@ -12,12 +12,14 @@
     "apexcharts": "^3.45.2",
     "flatpickr": "^4.6.13",
     "jsvectormap": "^1.6.0",
+    "lodash": "^4.17.21",
     "next": "^14.2.4",
     "react": "^18",
     "react-apexcharts": "^1.4.1",
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@types/lodash": "^4.17.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
