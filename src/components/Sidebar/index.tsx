@@ -25,7 +25,13 @@ const generateChapters = (
   ];
 };
 
-const danielChapters = generateChapters(1, 12);
+const danielChapters = [
+  {
+    label: "Home",
+    route: "/daniel",
+  },
+  ...generateChapters(1, 12),
+];
 
 const menuGroups = [
   {

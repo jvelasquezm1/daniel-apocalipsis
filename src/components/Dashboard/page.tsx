@@ -5,7 +5,7 @@ import BookCard from "../BookCard";
 const Dashboard: React.FC = () => {
   return (
     <>
-      <div className="flex flex-col items-center gap-10 lg:flex-row">
+      <div className="flex h-[80vh] flex-col content-center items-center gap-6 lg:flex-row">
         <BookCard
           link={"/daniel/1"}
           description={
@@ -20,10 +20,6 @@ const Dashboard: React.FC = () => {
           }
           title={"Apocalipsis"}
         />
-      </div>
-
-      <div className="mx-auto mt-6 flex-1 overflow-hidden rounded-xl bg-white shadow-md transition-shadow duration-300 hover:shadow-lg">
-        <div className="p-6"></div>
       </div>
     </>
   );
