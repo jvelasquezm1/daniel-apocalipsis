@@ -6,7 +6,7 @@ const Chapter11 = () => {
     <DefaultLayout>
       <div className="min-h-[100vh] p-4">
         <h2 className="mb-3 border-b pb-4 text-center text-3xl font-extrabold">
-          Capitulo 1
+          Capitulo 11
         </h2>
         <p className="mb-3">Descripcion</p>
         <div className="rounded-lg">
