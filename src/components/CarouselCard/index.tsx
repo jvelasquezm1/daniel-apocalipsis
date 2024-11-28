@@ -43,7 +43,7 @@ const CarouselCard: React.FC<CarouselCardProps> = ({
   };
 
   return (
-    <div className="flex flex-col-reverse p-4 lg:flex-row">
+    <div className="flex max-w-screen-xl flex-col-reverse p-4 lg:flex-row">
       <div className="container mt-32 w-full lg:w-[50%] lg:space-y-4">
         <span className="text-5xl font-bold">{title}</span>
         <span className="block w-[90vw] border-t pt-4 text-justify lg:w-full">

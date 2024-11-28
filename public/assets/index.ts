@@ -11,7 +11,7 @@ import {
   Leopard,
   Lion,
   World,
-} from './images';
+} from "./images";
 import {
   Ephesus,
   Smyrna,
@@ -20,14 +20,14 @@ import {
   Sardis,
   Philadelphia,
   Laodicea,
-} from './letters';
+} from "./letters";
 import {
   BabylonMap,
   BabylonTodayMap,
   GreeceMap,
   MedoPersiaMap,
   RomeMap,
-} from './maps';
+} from "./maps";
 import {
   Belly,
   Chest,
@@ -37,7 +37,7 @@ import {
   Knees,
   Rock,
   StatueImage,
-} from './statue';
+} from "./statue";
 import {
   Book,
   CalendarIcon,
@@ -50,7 +50,30 @@ import {
   RightArrow,
   Symbols,
   UpArrow,
-} from './svg';
+} from "./svg";
+import {
+  C1Daniel,
+  C2Daniel,
+  C3Daniel,
+  C4Daniel,
+  C5Daniel,
+  C6Daniel,
+  C7Daniel,
+  C8Daniel,
+  C9Daniel,
+  C10Daniel,
+  C11Daniel,
+  C12Daniel,
+} from "./chapters/daniel";
+import {
+  C1Revelation,
+  C2Revelation,
+  C3Revelation,
+  C4Revelation,
+  C5Revelation,
+  C6Revelation,
+  C7Revelation,
+} from "./chapters/revelation";
 
 export {
   CheckCircleIcon,
@@ -96,4 +119,23 @@ export {
   Sardis,
   Philadelphia,
   Laodicea,
+  C1Daniel,
+  C2Daniel,
+  C3Daniel,
+  C4Daniel,
+  C5Daniel,
+  C6Daniel,
+  C7Daniel,
+  C8Daniel,
+  C9Daniel,
+  C10Daniel,
+  C11Daniel,
+  C12Daniel,
+  C1Revelation,
+  C2Revelation,
+  C3Revelation,
+  C4Revelation,
+  C5Revelation,
+  C6Revelation,
+  C7Revelation,
 };

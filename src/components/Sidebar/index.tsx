@@ -63,6 +63,7 @@ const menuGroups = [
         label: "Apocalipsis",
         route: "#",
         children: [
+          { label: "Home", route: "/apocalipsis" },
           { label: "Cartas", route: "/apocalipsis/1" },
           { label: "Sellos", route: "/apocalipsis/2" },
           { label: "Trompetas", route: "/apocalipsis/3" },
