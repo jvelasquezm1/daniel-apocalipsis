@@ -1,0 +1,127 @@
+{
+  "daniel": {
+    "title": "Libro de Daniel",
+    "description": "Daniel, el profeta sabio, narra sueños y visiones divinas, desentrañando el futuro con claridad. Desde la férrea fe en la adversidad hasta la victoria final del bien sobre el mal, Daniel es un faro de esperanza y sabiduría en el tejido de la historia bíblica y la humanidad.",
+    "chapter1": {
+      "title": "Daniel y sus amigos",
+      "description": "Descripción",
+      "interesting_facts": "Datos interesantes"
+    },
+    "chapter2": {
+      "title": "Sueño de Nabucodonosor",
+      "description": "Descripción del sueño de Nabucodonosor",
+      "sections": {
+        "history": "Historia",
+        "maps": "Mapas",
+        "verses": "Versículos",
+        "prophecy": "Profecía",
+        "symbols": "Símbolos"
+      }
+    },
+    "chapter3": {
+      "title": "Horno de fuego",
+      "description": "La prueba de fe en el horno ardiente"
+    },
+    "chapter4": {
+      "title": "El pueblo de Dios",
+      "description": "La transformación de Nabucodonosor"
+    },
+    "chapter5": {
+      "title": "La mano en la pared",
+      "description": "El festín de Belsasar"
+    },
+    "chapter6": {
+      "title": "El sacrificio de Jesús",
+      "description": "Daniel en el foso de los leones"
+    },
+    "chapter7": {
+      "title": "El reino de los profetas",
+      "description": "Visión de las cuatro bestias"
+    },
+    "chapter8": {
+      "title": "El regreso de Jesús",
+      "description": "Visión del carnero y el macho cabrío"
+    },
+    "chapter9": {
+      "title": "El sacrificio de Jesús para salvar al mundo",
+      "description": "La profecía de las setenta semanas"
+    },
+    "chapter10": {
+      "title": "La obra de Dios",
+      "description": "La visión del varón excelente",
+      "interesting_facts": "Datos interesantes"
+    },
+    "chapter11": {
+      "title": "El final",
+      "description": "Conflictos entre reinos"
+    },
+    "chapter12": {
+      "title": "La resurrección",
+      "description": "El tiempo del fin"
+    },
+    "chapters": {
+      "1": "Capítulo 1: Daniel y sus amigos",
+      "2": "Capítulo 2: Sueño de Nabucodonosor",
+      "3": "Capítulo 3: Horno de fuego",
+      "4": "Capítulo 4: El pueblo de Dios",
+      "5": "Capítulo 5: La mano en la pared",
+      "6": "Capítulo 6: El sacrificio de Jesús",
+      "7": "Capítulo 7: El reino de los profetas",
+      "8": "Capítulo 8: El regreso de Jesús",
+      "9": "Capítulo 9: El sacrificio de Jesús para salvar al mundo",
+      "10": "Capítulo 10: La obra de Dios",
+      "11": "Capítulo 11: El final",
+      "12": "Capítulo 12: La resurrección"
+    }
+  },
+  "revelation": {
+    "title": "Libro de Apocalipsis",
+    "description": "El Apocalipsis, última revelación divina, desvela el triunfo final de Cristo y su iglesia. A través de símbolos y visiones proféticas, Juan narra la batalla cósmica entre el bien y el mal, culminando en la gloriosa victoria de Dios y la nueva creación.",
+    "chapter1": {
+      "title": "Cartas",
+      "description": "Las cartas a las siete iglesias",
+      "interesting_facts": "Datos interesantes"
+    },
+    "chapter2": {
+      "title": "Sellos",
+      "description": "La apertura de los siete sellos",
+      "interesting_facts": "Datos interesantes"
+    },
+    "chapter3": {
+      "title": "Trompetas",
+      "description": "El sonido de las siete trompetas"
+    },
+    "chapter4": {
+      "title": "Mujer y dragón",
+      "description": "La mujer y el dragón escarlata"
+    },
+    "chapter5": {
+      "title": "Copas",
+      "description": "Las siete copas de la ira"
+    },
+    "chapter6": {
+      "title": "Gran ramera",
+      "description": "La caída de Babilonia"
+    },
+    "chapter7": {
+      "title": "Triunfo final",
+      "description": "La nueva Jerusalén"
+    }
+  },
+  "navigation": {
+    "prophecy": "Profecia",
+    "daniel": "Daniel",
+    "revelation": "Apocalipsis"
+  },
+  "chapters": {
+    "chapter": "Capitulo",
+    "home": "Inicio",
+    "letters": "Cartas",
+    "seals": "Sellos",
+    "trumpets": "Trompetas",
+    "womanAndDragon": "Mujer y dragón",
+    "bowls": "Copas",
+    "greatHarlot": "Gran ramera",
+    "finalTriumph": "Triunfo final"
+  }
+}

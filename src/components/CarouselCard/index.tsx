@@ -1,6 +1,7 @@
 import Image, { StaticImageData } from "next/image";
 import Link from "next/link";
 import React, { memo, useState } from "react";
+import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 
 interface CarouselCardProps {
   title: string;
@@ -10,7 +11,7 @@ interface CarouselCardProps {
 
 interface CarouselButtonProps {
   onClick: () => void;
-  content: string;
+  content: React.ReactNode;
 }
 
 const CarouselButton: React.FC<CarouselButtonProps> = ({
@@ -19,7 +20,7 @@ const CarouselButton: React.FC<CarouselButtonProps> = ({
 }) => (
   <button
     onClick={onClick}
-    className="hover:bg-gray-300 rounded-full p-3 text-2xl shadow-lg focus:outline-none"
+    className="hover:text-gray-600 p-3 text-2xl transition-colors focus:outline-none"
   >
     {content}
   </button>
@@ -55,37 +56,41 @@ const CarouselCard: React.FC<CarouselCardProps> = ({
           <div
             className="flex transition-transform duration-500 ease-in-out"
             style={{
-              transform: `translateX(-${
-                currentSlide *
-                (window.matchMedia("(min-width: 1024px)").matches ? 100 : 140)
-              }%)`,
+              transform: `translateX(-${currentSlide * 100}%)`,
             }}
           >
             {slidesData.map((slide, index) => (
               <div
                 key={index}
-                className="flex min-w-[140vw] flex-col lg:min-w-full lg:items-center lg:justify-center"
+                className="flex min-w-full flex-col items-center justify-center"
               >
-                <div className="mt-10 w-[70%] rounded-lg p-16">
-                  <Image
-                    src={slide.img}
-                    style={{ objectFit: "cover" }}
-                    width="350"
-                    height="350"
-                    alt={slide.caption}
-                    className="mx-auto rounded-3xl"
-                  />
-                  <p className="mt-4 text-xl">{slide.caption}</p>
-                  <Link href={slide.link}>Leer</Link>
+                <div className="mt-10 w-full max-w-[350px] px-4">
+                  <Link href={slide.link}>
+                    <Image
+                      src={slide.img}
+                      style={{ objectFit: "cover" }}
+                      width="350"
+                      height="350"
+                      alt={slide.caption}
+                      className="mx-auto cursor-pointer rounded-3xl transition-transform duration-300 hover:scale-105"
+                    />
+                  </Link>
+                  <p className="mt-4 text-center text-xl">{slide.caption}</p>
                 </div>
               </div>
             ))}
           </div>
         </div>
 
-        <div className="flex justify-center space-x-4">
-          <CarouselButton onClick={handlePrevSlide} content="⬅️" />
-          <CarouselButton onClick={handleNextSlide} content="➡️" />
+        <div className="mt-6 flex items-center justify-center gap-4">
+          <CarouselButton
+            onClick={handlePrevSlide}
+            content={<IoIosArrowBack size={24} />}
+          />
+          <CarouselButton
+            onClick={handleNextSlide}
+            content={<IoIosArrowForward size={24} />}
+          />
         </div>
       </div>
     </div>

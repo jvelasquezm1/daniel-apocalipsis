@@ -3,19 +3,19 @@ import DefaultLayout from "@/components/Layouts/DefaultLayout";
 import React, { memo } from "react";
 import { useTranslations } from "next-intl";
 
-const Chapter10 = () => {
+const Chapter6 = () => {
   const t = useTranslations();
 
   return (
     <DefaultLayout>
       <div className="min-h-[100vh] p-4">
         <h2 className="mb-3 border-b pb-4 text-center text-2xl font-extrabold lg:text-3xl">
-          {t("daniel.chapter10.title")}
+          {t("revelation.chapter6.title")}
         </h2>
-        <p className="mb-3">{t("daniel.chapter10.description")}</p>
+        <p className="mb-3">{t("revelation.chapter6.description")}</p>
         <div className="rounded-lg">
           <h2 className="mb-5 text-2xl font-extrabold">
-            {t("daniel.chapter10.interesting_facts")}
+            {t("revelation.chapter6.interesting_facts")}
           </h2>
         </div>
       </div>
@@ -23,4 +23,4 @@ const Chapter10 = () => {
   );
 };
 
-export default memo(Chapter10);
+export default memo(Chapter6);

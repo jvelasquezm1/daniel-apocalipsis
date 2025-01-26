@@ -1,0 +1,113 @@
+{
+  "daniel": {
+    "title": "Book of Daniel",
+    "description": "Daniel, the wise prophet, narrates divine dreams and visions, unraveling the future with clarity. From unwavering faith in adversity to the final victory of good over evil, Daniel is a beacon of hope and wisdom in the fabric of biblical history and humanity.",
+    "chapter1": {
+      "title": "Daniel and his friends",
+      "description": "Description",
+      "interesting_facts": "Interesting facts"
+    },
+    "chapter2": {
+      "title": "Nebuchadnezzar's Dream",
+      "description": "Description of Nebuchadnezzar's dream",
+      "sections": {
+        "history": "History",
+        "maps": "Maps",
+        "verses": "Verses",
+        "prophecy": "Prophecy",
+        "symbols": "Symbols"
+      }
+    },
+    "chapter3": {
+      "title": "Fiery Furnace",
+      "description": "The test of faith in the fiery furnace"
+    },
+    "chapter4": {
+      "title": "God's People",
+      "description": "Nebuchadnezzar's transformation"
+    },
+    "chapter5": {
+      "title": "The Writing on the Wall",
+      "description": "Belshazzar's feast"
+    },
+    "chapter6": {
+      "title": "The Sacrifice of Jesus",
+      "description": "Daniel in the lions' den"
+    },
+    "chapter7": {
+      "title": "The Kingdom of Prophets",
+      "description": "Vision of the four beasts"
+    },
+    "chapter8": {
+      "title": "The Return of Jesus",
+      "description": "Vision of the ram and goat"
+    },
+    "chapter9": {
+      "title": "Jesus' Sacrifice to Save the World",
+      "description": "The prophecy of seventy weeks"
+    },
+    "chapter10": {
+      "title": "God's Work",
+      "description": "The vision of the glorious man",
+      "interesting_facts": "Interesting facts"
+    },
+    "chapter11": {
+      "title": "The End",
+      "description": "Conflicts between kingdoms"
+    },
+    "chapter12": {
+      "title": "The Resurrection",
+      "description": "The time of the end"
+    }
+  },
+  "revelation": {
+    "title": "Book of Revelation",
+    "description": "The Revelation, the final divine revelation, unveils Christ's and His church's ultimate triumph. Through prophetic symbols and visions, John narrates the cosmic battle between good and evil, culminating in God's glorious victory and the new creation.",
+    "chapter1": {
+      "title": "Letters",
+      "description": "The letters to the seven churches",
+      "interesting_facts": "Interesting facts"
+    },
+    "chapter2": {
+      "title": "Seals",
+      "description": "The opening of the seven seals",
+      "interesting_facts": "Interesting facts"
+    },
+    "chapter3": {
+      "title": "Trumpets",
+      "description": "The sounding of the seven trumpets"
+    },
+    "chapter4": {
+      "title": "Woman and Dragon",
+      "description": "The woman and the scarlet dragon"
+    },
+    "chapter5": {
+      "title": "Bowls",
+      "description": "The seven bowls of wrath"
+    },
+    "chapter6": {
+      "title": "Great Harlot",
+      "description": "The fall of Babylon"
+    },
+    "chapter7": {
+      "title": "Final Triumph",
+      "description": "The new Jerusalem"
+    }
+  },
+  "navigation": {
+    "prophecy": "Prophecy",
+    "daniel": "Daniel",
+    "revelation": "Revelation"
+  },
+  "chapters": {
+    "chapter": "Chapter",
+    "home": "Home",
+    "letters": "Letters",
+    "seals": "Seals",
+    "trumpets": "Trumpets",
+    "womanAndDragon": "Woman and Dragon",
+    "bowls": "Bowls",
+    "greatHarlot": "Great Harlot",
+    "finalTriumph": "Final Triumph"
+  }
+}

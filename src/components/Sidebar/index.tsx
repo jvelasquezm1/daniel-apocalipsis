@@ -6,6 +6,7 @@ import Image from "next/image";
 import SidebarItem from "@/components/Sidebar/SidebarItem";
 import ClickOutside from "@/components/ClickOutside";
 import useLocalStorage from "@/hooks/useLocalStorage";
+import { useTranslations } from "next-intl";
 
 interface SidebarProps {
   sidebarOpen: boolean;
@@ -15,70 +16,72 @@ interface SidebarProps {
 const generateChapters = (
   start: number,
   end: number,
+  t: (key: string) => string,
 ): { label: string; route: string }[] => {
   if (start > end) {
     return [];
   }
   return [
-    { label: `Capitulo ${start}`, route: `/daniel/${start}` },
-    ...generateChapters(start + 1, end),
+    { label: `${t("chapters.chapter")} ${start}`, route: `/daniel/${start}` },
+    ...generateChapters(start + 1, end, t),
   ];
 };
 
-const danielChapters = [
-  {
-    label: "Home",
-    route: "/daniel",
-  },
-  ...generateChapters(1, 12),
-];
-
-const menuGroups = [
-  {
-    menuItems: [
-      {
-        icon: (
-          <Image
-            width={26}
-            height={32}
-            src={"/assets/svg/book.svg"}
-            alt="Logo"
-            priority
-          />
-        ),
-        label: "Daniel",
-        route: "#",
-        children: danielChapters,
-      },
-      {
-        icon: (
-          <Image
-            width={26}
-            height={32}
-            src={"/assets/svg/book.svg"}
-            alt="Logo"
-            priority
-          />
-        ),
-        label: "Apocalipsis",
-        route: "#",
-        children: [
-          { label: "Home", route: "/apocalipsis" },
-          { label: "Cartas", route: "/apocalipsis/1" },
-          { label: "Sellos", route: "/apocalipsis/2" },
-          { label: "Trompetas", route: "/apocalipsis/3" },
-          { label: "Mujer y dragon", route: "/apocalipsis/4" },
-          { label: "Copas", route: "/apocalipsis/5" },
-          { label: "Gran ramera", route: "/apocalipsis/6" },
-          { label: "Triunfo final", route: "/apocalipsis/7" },
-        ],
-      },
-    ],
-  },
-];
-
 const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
   const [pageName, setPageName] = useLocalStorage("selectedMenu", "dashboard");
+  const t = useTranslations();
+
+  const danielChapters = [
+    {
+      label: t("chapters.home"),
+      route: "/daniel",
+    },
+    ...generateChapters(1, 12, t),
+  ];
+
+  const menuGroups = [
+    {
+      menuItems: [
+        {
+          icon: (
+            <Image
+              width={26}
+              height={32}
+              src={"/assets/svg/book.svg"}
+              alt="Logo"
+              priority
+            />
+          ),
+          label: t("navigation.daniel"),
+          route: "#",
+          children: danielChapters,
+        },
+        {
+          icon: (
+            <Image
+              width={26}
+              height={32}
+              src={"/assets/svg/book.svg"}
+              alt="Logo"
+              priority
+            />
+          ),
+          label: t("navigation.revelation"),
+          route: "#",
+          children: [
+            { label: t("chapters.home"), route: "/revelation" },
+            { label: t("chapters.letters"), route: "/revelation/1" },
+            { label: t("chapters.seals"), route: "/revelation/2" },
+            { label: t("chapters.trumpets"), route: "/revelation/3" },
+            { label: t("chapters.womanAndDragon"), route: "/revelation/4" },
+            { label: t("chapters.bowls"), route: "/revelation/5" },
+            { label: t("chapters.greatHarlot"), route: "/revelation/6" },
+            { label: t("chapters.finalTriumph"), route: "/revelation/7" },
+          ],
+        },
+      ],
+    },
+  ];
 
   return (
     <ClickOutside onClick={() => setSidebarOpen(false)}>
@@ -90,7 +93,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
         <div className="flex items-center justify-between gap-2 px-6 py-5.5">
           <Link href="/">
             <p className="content-end text-4xl font-semibold text-white">
-              Profecia
+              {t("navigation.prophecy")}
             </p>
           </Link>
 

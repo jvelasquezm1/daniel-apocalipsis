@@ -14,7 +14,7 @@ const Dashboard: React.FC = () => {
           title={"Daniel"}
         />
         <BookCard
-          link={"/apocalipsis/1"}
+          link={"/revelation/1"}
           description={
             "El Apocalipsis, último libro de la Biblia, desentraña visiones apocalípticas. Revela simbolismos, anticipa eventos finales y promete esperanza. Su mensaje trasciende épocas, ofreciendo guía y consuelo para los desafíos contemporáneos"
           }

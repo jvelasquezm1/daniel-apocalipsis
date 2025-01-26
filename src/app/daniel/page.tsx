@@ -16,74 +16,74 @@ import {
   C11Daniel,
   C12Daniel,
 } from "../../../public/assets";
+import { useTranslations } from "next-intl";
 
 const Daniel = () => {
+  const t = useTranslations();
   return (
     <DefaultLayout>
       <CarouselCard
-        title={"Libro de Daniel"}
-        description={
-          "Daniel, el profeta sabio, narra sueños y visiones divinas, desentrañando el futuro con claridad. Desde la férrea fe en la adversidad hasta la victoria final del bien sobre el mal, Daniel es un faro de esperanza y sabiduría en el tejido de la historia bíblica y la humanidad."
-        }
+        title={t("daniel.title")}
+        description={t("daniel.description")}
         slidesData={[
           {
             img: C1Daniel,
-            caption: "Chapter 1: Daniel y sus amigos",
+            caption: t("daniel.chapter1.title"),
             link: "daniel/1",
           },
           {
             img: C2Daniel,
-            caption: "Chapter 2: Sueño de Nabucodonosor",
+            caption: t("daniel.chapter2.title"),
             link: "daniel/2",
           },
           {
             img: C3Daniel,
-            caption: "Chapter 3: Horno de fuego",
+            caption: t("daniel.chapter3.title"),
             link: "daniel/3",
           },
           {
             img: C4Daniel,
-            caption: "Chapter 4: El pueblo de Dios",
+            caption: t("daniel.chapter4.title "),
             link: "daniel/4",
           },
           {
             img: C5Daniel,
-            caption: "Chapter 5: La mano en la pared",
+            caption: t("daniel.chapter5.title "),
             link: "daniel/5",
           },
           {
             img: C6Daniel,
-            caption: "Chapter 6: El sacrificio de Jesús",
+            caption: t("daniel.chapter6.title "),
             link: "daniel/6",
           },
           {
             img: C7Daniel,
-            caption: "Chapter 7: El reino de los profetas",
+            caption: t("daniel.chapter7.title   "),
             link: "daniel/7",
           },
           {
             img: C8Daniel,
-            caption: "Chapter 8: El regreso de Jesús",
+            caption: t("daniel.chapter8.title"),
             link: "daniel/8",
           },
           {
             img: C9Daniel,
-            caption: "Chapter 9: El sacrificio de Jesús para salvar al mundo",
+            caption: t("daniel.chapter9.title"),
             link: "daniel/9",
           },
           {
             img: C10Daniel,
-            caption: "Chapter 10: La obra de Dios",
+            caption: t("daniel.chapter10.title"),
             link: "daniel/10",
           },
           {
             img: C11Daniel,
-            caption: "Chapter 11: El final",
+            caption: t("daniel.chapter11.title"),
             link: "daniel/11",
           },
           {
             img: C12Daniel,
-            caption: "Chapter 12: La resurrección",
+            caption: t("daniel.chapter12.title"),
             link: "daniel/12",
           },
         ]}

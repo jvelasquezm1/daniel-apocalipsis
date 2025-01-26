@@ -6,18 +6,20 @@ import {
   StatueIdentifiers,
 } from "../../../../public/shared/identifiers";
 import DefaultLayout from "@/components/Layouts/DefaultLayout";
+import { useTranslations } from "next-intl";
 
 const Chapter7 = () => {
   const [identifier, setIdentifier] = useState(StatueIdentifiers.Babylon);
   const handleSetIdentifier = (newIdentifier: Identifiers) => {
     setIdentifier(newIdentifier as StatueIdentifiers);
   };
+  const t = useTranslations();
 
   return (
     <DefaultLayout>
       <div className="p-4">
         <h2 className="mb-3 border-b pb-4 text-center text-3xl font-extrabold">
-          Visión de las 4 bestias
+          {t("daniel.chapter7.title")}
         </h2>
         <Beasts
           setIdentifier={handleSetIdentifier}

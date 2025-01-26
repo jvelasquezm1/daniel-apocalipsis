@@ -19,6 +19,7 @@ import {
 } from "../../../../public/assets";
 import Statue from "@/components/Statue";
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 
 enum SectionsChapter2 {
   History = "History",
@@ -33,6 +34,7 @@ const Chapter2 = () => {
   const [selectedSection, setSelectedSection] = useState(
     SectionsChapter2.History,
   );
+  const t = useTranslations();
 
   const identifierToMap = {
     [StatueIdentifiers.Babylon]: BabylonMap,
@@ -64,7 +66,7 @@ const Chapter2 = () => {
     <DefaultLayout>
       <div className="p-4">
         <h2 className="mb-3 border-b pb-4 text-center text-2xl font-extrabold lg:text-3xl">
-          Sueño de Nabucodonosor
+          {t("daniel.chapter2.title")}
         </h2>
         <div className="flex flex-col lg:flex-row">
           <div className="mb-4 flex-1 lg:mb-0 lg:mr-4">
@@ -77,37 +79,41 @@ const Chapter2 = () => {
             <span className="border-b-2 pb-4 text-center text-lg font-semibold">
               Titulo
             </span>
-            <ol className="flex items-center justify-between border-b-2 pb-4">
-              {Object.values(SectionsChapter2).map((section) => {
-                const isSectionSelected = selectedSection === section;
-                const IconComponent = sectionIcons[section];
-                return (
-                  <li
-                    key={section}
-                    className="relative flex-1 cursor-pointer"
-                    onClick={() => setSelectedSection(section)}
-                  >
-                    <div className="flex items-center">
-                      <div className={"flex w-full shrink-0 items-center"}>
-                        <IconComponent
-                          className={`${
-                            isSectionSelected
-                              ? "h-8 w-8 fill-white stroke-black lg:h-10 lg:w-10"
-                              : "h-6 w-6 fill-white stroke-black hover:fill-black"
-                          }`}
-                        />
-                        <div className="flex h-0.5 w-full bg-black " />
+            <div className="rounded-lg">
+              <ol className="flex items-center justify-between border-b-2 pb-4">
+                {Object.values(SectionsChapter2).map((section) => {
+                  const isSectionSelected = selectedSection === section;
+                  const IconComponent = sectionIcons[section];
+                  return (
+                    <li
+                      key={section}
+                      className="relative flex-1 cursor-pointer"
+                      onClick={() => setSelectedSection(section)}
+                    >
+                      <div className="flex items-center">
+                        <div className={"flex w-full shrink-0 items-center"}>
+                          <IconComponent
+                            className={`${
+                              isSectionSelected
+                                ? "h-8 w-8 fill-white stroke-black lg:h-10 lg:w-10"
+                                : "h-6 w-6 fill-white stroke-black hover:fill-black"
+                            }`}
+                          />
+                          <div className="flex h-0.5 w-full bg-black " />
+                        </div>
                       </div>
-                    </div>
-                    <div className="mt-2 lg:mt-3">
-                      <h3 className="text-sm font-semibold lg:text-base">
-                        {section}
-                      </h3>
-                    </div>
-                  </li>
-                );
-              })}
-            </ol>
+                      <div className="mt-2 lg:mt-3">
+                        <h3 className="text-sm font-semibold lg:text-base">
+                          {t(
+                            `daniel.chapter2.sections.${section.toLowerCase()}`,
+                          )}
+                        </h3>
+                      </div>
+                    </li>
+                  );
+                })}
+              </ol>
+            </div>
 
             <div
               className={`static left-0 top-0 flex w-full flex-col overflow-y-auto overflow-x-hidden rounded-md`}
