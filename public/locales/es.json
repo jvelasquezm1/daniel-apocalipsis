@@ -10,6 +10,7 @@
     "chapter2": {
       "title": "Sueño de Nabucodonosor",
       "description": "Descripción del sueño de Nabucodonosor",
+      "interesting_facts": "Datos interesantes",
       "sections": {
         "history": "Historia",
         "maps": "Mapas",
@@ -20,31 +21,38 @@
     },
     "chapter3": {
       "title": "Horno de fuego",
-      "description": "La prueba de fe en el horno ardiente"
+      "description": "La prueba de fe en el horno ardiente",
+      "interesting_facts": "Datos interesantes"
     },
     "chapter4": {
       "title": "El pueblo de Dios",
-      "description": "La transformación de Nabucodonosor"
+      "description": "La transformación de Nabucodonosor",
+      "interesting_facts": "Datos interesantes"
     },
     "chapter5": {
       "title": "La mano en la pared",
-      "description": "El festín de Belsasar"
+      "description": "El festín de Belsasar",
+      "interesting_facts": "Datos interesantes"
     },
     "chapter6": {
       "title": "El sacrificio de Jesús",
-      "description": "Daniel en el foso de los leones"
+      "description": "Daniel en el foso de los leones",
+      "interesting_facts": "Datos interesantes"
     },
     "chapter7": {
       "title": "El reino de los profetas",
-      "description": "Visión de las cuatro bestias"
+      "description": "Visión de las cuatro bestias",
+      "interesting_facts": "Datos interesantes"
     },
     "chapter8": {
       "title": "El regreso de Jesús",
-      "description": "Visión del carnero y el macho cabrío"
+      "description": "Visión del carnero y el macho cabrío",
+      "interesting_facts": "Datos interesantes"
     },
     "chapter9": {
       "title": "El sacrificio de Jesús para salvar al mundo",
-      "description": "La profecía de las setenta semanas"
+      "description": "La profecía de las setenta semanas",
+      "interesting_facts": "Datos interesantes"
     },
     "chapter10": {
       "title": "La obra de Dios",
@@ -53,11 +61,13 @@
     },
     "chapter11": {
       "title": "El final",
-      "description": "Conflictos entre reinos"
+      "description": "Conflictos entre reinos",
+      "interesting_facts": "Datos interesantes"
     },
     "chapter12": {
       "title": "La resurrección",
-      "description": "El tiempo del fin"
+      "description": "El tiempo del fin",
+      "interesting_facts": "Datos interesantes"
     },
     "chapters": {
       "1": "Capítulo 1: Daniel y sus amigos",

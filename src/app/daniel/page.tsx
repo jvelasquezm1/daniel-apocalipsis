@@ -43,22 +43,22 @@ const Daniel = () => {
           },
           {
             img: C4Daniel,
-            caption: t("daniel.chapter4.title "),
+            caption: t("daniel.chapter4.title"),
             link: "daniel/4",
           },
           {
             img: C5Daniel,
-            caption: t("daniel.chapter5.title "),
+            caption: t("daniel.chapter5.title"),
             link: "daniel/5",
           },
           {
             img: C6Daniel,
-            caption: t("daniel.chapter6.title "),
+            caption: t("daniel.chapter6.title"),
             link: "daniel/6",
           },
           {
             img: C7Daniel,
-            caption: t("daniel.chapter7.title   "),
+            caption: t("daniel.chapter7.title"),
             link: "daniel/7",
           },
           {

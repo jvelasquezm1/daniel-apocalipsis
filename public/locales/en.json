@@ -10,6 +10,7 @@
     "chapter2": {
       "title": "Nebuchadnezzar's Dream",
       "description": "Description of Nebuchadnezzar's dream",
+      "interesting_facts": "Interesting facts",
       "sections": {
         "history": "History",
         "maps": "Maps",
@@ -20,31 +21,38 @@
     },
     "chapter3": {
       "title": "Fiery Furnace",
-      "description": "The test of faith in the fiery furnace"
+      "description": "The test of faith in the fiery furnace",
+      "interesting_facts": "Interesting facts"
     },
     "chapter4": {
       "title": "God's People",
-      "description": "Nebuchadnezzar's transformation"
+      "description": "Nebuchadnezzar's transformation",
+      "interesting_facts": "Interesting facts"
     },
     "chapter5": {
       "title": "The Writing on the Wall",
-      "description": "Belshazzar's feast"
+      "description": "Belshazzar's feast",
+      "interesting_facts": "Interesting facts"
     },
     "chapter6": {
       "title": "The Sacrifice of Jesus",
-      "description": "Daniel in the lions' den"
+      "description": "Daniel in the lions' den",
+      "interesting_facts": "Interesting facts"
     },
     "chapter7": {
       "title": "The Kingdom of Prophets",
-      "description": "Vision of the four beasts"
+      "description": "Vision of the four beasts",
+      "interesting_facts": "Interesting facts"
     },
     "chapter8": {
       "title": "The Return of Jesus",
-      "description": "Vision of the ram and goat"
+      "description": "Vision of the ram and goat",
+      "interesting_facts": "Interesting facts"
     },
     "chapter9": {
       "title": "Jesus' Sacrifice to Save the World",
-      "description": "The prophecy of seventy weeks"
+      "description": "The prophecy of seventy weeks",
+      "interesting_facts": "Interesting facts"
     },
     "chapter10": {
       "title": "God's Work",
@@ -53,11 +61,13 @@
     },
     "chapter11": {
       "title": "The End",
-      "description": "Conflicts between kingdoms"
+      "description": "Conflicts between kingdoms",
+      "interesting_facts": "Interesting facts"
     },
     "chapter12": {
       "title": "The Resurrection",
-      "description": "The time of the end"
+      "description": "The time of the end",
+      "interesting_facts": "Interesting facts"
     }
   },
   "revelation": {
