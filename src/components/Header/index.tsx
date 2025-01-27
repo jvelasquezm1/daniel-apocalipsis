@@ -1,3 +1,5 @@
+import LanguageSwitcher from "../Switcher/LanguageSwitcher";
+
 const Header = (props: {
   sidebarOpen: string | boolean | undefined;
   setSidebarOpen: (arg0: boolean) => void;
@@ -50,7 +52,7 @@ const Header = (props: {
 
         <div className="ml-auto flex items-center gap-3 2xsm:gap-7">
           <ul className="flex items-center gap-2 2xsm:gap-4">
-            {/* TODO ADD LANGUAGE SWITCHER */}
+            <LanguageSwitcher />
           </ul>
         </div>
       </div>
