@@ -31,10 +31,6 @@ const Chapter8: React.FC = () => {
         <h2 className="mb-3 border-b pb-4 text-center text-2xl font-extrabold lg:text-3xl">
           {t("daniel.chapter8.title")}
         </h2>
-        <p className="text-gray-700 dark:text-gray-300 mb-6 text-lg leading-relaxed">
-          {t("daniel.chapter8.description")}
-        </p>
-
         <div className="mb-4 text-center">
           {timelapse !== 2300 && (
             <button

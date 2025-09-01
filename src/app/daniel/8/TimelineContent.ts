@@ -52,6 +52,13 @@ export const buttonsConfig: ButtonConfig[] = [
     buttonWidth: "w-full",
   },
   {
+    year: 34,
+    timelapse: 1810,
+    targetTimelapse: 1810,
+    labelKey: "daniel.chapter8.timeline.button1810years",
+    buttonWidth: "w-full",
+  },
+  {
     year: 457,
     timelapse: 70,
     targetTimelapse: 70,
@@ -98,7 +105,8 @@ export const generateClassNames = (event: Event, timelapse: number): string => {
     classNames += "border-2 border-l-0 w-[100%] ";
   if (
     (event.year === 408 && timelapse === 70) ||
-    (event.year === 27 && timelapse === 1)
+    (event.year === 27 && timelapse === 1) ||
+    (timelapse === 1810 && event.year === 34)
   )
     classNames += "border-2 w-[100%] ";
   return classNames.trim();

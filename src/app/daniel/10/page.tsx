@@ -13,8 +13,8 @@ const Chapter10 = () => {
           {t("daniel.chapter10.title")}
         </h2>
         <p className="mb-3">{t("daniel.chapter10.description")}</p>
-        <div className="rounded-lg">
-          <h2 className="mb-5 text-2xl font-extrabold">
+        <div className="bg-gray-100 dark:bg-gray-800 mt-8 rounded-lg p-6 shadow-md">
+          <h2 className="text-gray-900 mb-4 text-xl font-extrabold dark:text-white lg:text-2xl">
             {t("daniel.chapter10.interesting_facts_title")}
           </h2>
           <ul className="text-gray-700 dark:text-gray-300 list-inside list-disc space-y-2">
