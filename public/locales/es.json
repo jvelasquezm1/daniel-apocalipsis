@@ -4,8 +4,15 @@
     "description": "Daniel, el profeta sabio, narra sueños y visiones divinas, desentrañando el futuro con claridad. Desde la férrea fe en la adversidad hasta la victoria final del bien sobre el mal, Daniel es un faro de esperanza y sabiduría en el tejido de la historia bíblica y la humanidad.",
     "chapter1": {
       "title": "Daniel y sus amigos",
-      "description": "Descripción",
-      "interesting_facts": "Datos interesantes"
+      "description": "En el primer capítulo de Daniel, se nos presenta a Daniel y a sus tres amigos —Ananías, Misael y Azarías— quienes son llevados cautivos a Babilonia durante el reinado del rey Joacim de Judá. Son elegidos por su inteligencia y buen aspecto para ser entrenados durante tres años al servicio del rey, aprendiendo la lengua y la literatura de los caldeos. A pesar de recibir la rica comida y el vino del rey, Daniel decide no contaminarse con ellos y propone una prueba de diez días con una dieta vegetariana y agua. Al cabo de los diez días, se ven más saludables y mejor nutridos que todos los jóvenes que comían de la comida del rey. Dios les da conocimiento e inteligencia en todas las letras y ciencias, y Daniel recibe entendimiento en toda visión y sueños. Al final de su entrenamiento, al ser presentados ante el rey Nabucodonosor, son hallados diez veces superiores a todos los magos y astrólogos de su reino.",
+      "interesting_facts": {
+        "fact1": "Daniel y sus amigos eran jóvenes, probablemente adolescentes, cuando fueron llevados a Babilonia.",
+        "fact2": "Sus nombres babilónicos eran Belsasar, Sadrac, Mesac y Abednego, respectivamente.",
+        "fact3": "Su negativa a comer la comida del rey no solo se trataba de la dieta, sino de evitar sacrificios idolátricos y mantener sus leyes dietéticas (kosher).",
+        "fact4": "La 'prueba de diez días' es un poderoso ejemplo de confiar en la provisión de Dios y mantenerse firme en las propias convicciones.",
+        "fact5": "La bendición de Dios sobre Daniel y sus amigos fue evidente en su sabiduría y apariencia superiores, demostrando Su fidelidad a quienes le honran."
+      },
+      "interesting_facts_title": "Datos Interesantes"
     },
     "chapter2": {
       "title": "Sueño de Nabucodonosor",
@@ -17,6 +24,92 @@
         "verses": "Versículos",
         "prophecy": "Profecía",
         "symbols": "Símbolos"
+      },
+      "kingdoms": {
+        "babylon": {
+          "title": "Cabeza de Oro - Babilonia",
+          "history": {
+            "p1": "El reinado de Nabucodonosor marcó la cúspide del Imperio Neobabilónico. Su sueño de una gran estatua representó una secuencia de imperios mundiales.",
+            "p2": "Babilonia era conocida por su inmensa riqueza, su poderoso ejército y su cultura avanzada, incluyendo los Jardines Colgantes, una de las Siete Maravillas del Mundo Antiguo."
+          },
+          "prophecy": {
+            "p1": "Daniel interpretó la cabeza de oro como Nabucodonosor y el Imperio Babilónico (Daniel 2:37-38).",
+            "p2": "Esta profecía destacó la posición de Babilonia como la potencia mundial dominante en ese momento."
+          },
+          "symbols": {
+            "p1": "Oro: Simboliza gran riqueza, poder y la naturaleza suprema del Imperio Babilónico."
+          }
+        },
+        "medoPersia": {
+          "title": "Pecho y Brazos de Plata - Medo-Persia",
+          "history": {
+            "p1": "El Imperio Medo-Persa, una monarquía dual, conquistó Babilonia en el 539 a.C. bajo Ciro el Grande. Se extendía desde la India hasta Etiopía.",
+            "p2": "Conocido por su vasto sistema administrativo, que incluía satrapías y un servicio postal. Sus leyes eran inalterables."
+          },
+          "prophecy": {
+            "p1": "El pecho y los brazos de plata representaron el Imperio Medo-Persa, que era inferior a Babilonia pero aún una potencia significativa (Daniel 2:39).",
+            "p2": "Los dos brazos simbolizaban la naturaleza dual del imperio, formado por los medos y los persas."
+          },
+          "symbols": {
+            "p1": "Plata: Representa un imperio inferior a Babilonia en gloria pero vasto en territorio."
+          }
+        },
+        "greece": {
+          "title": "Vientre y Muslos de Bronce - Grecia",
+          "history": {
+            "p1": "El Imperio Griego, liderado por Alejandro Magno, conquistó el Imperio Medo-Persa con una velocidad asombrosa. Las conquistas de Alejandro extendieron la cultura griega (helenismo) por todo el mundo antiguo.",
+            "p2": "Después de la muerte de Alejandro, su imperio se dividió entre sus cuatro generales (diádocos), lo que llevó a la formación de los reinos seléucida, ptolemaico, antigónida y lisímaco."
+          },
+          "prophecy": {
+            "p1": "El vientre y los muslos de bronce representaron el Imperio Griego, que gobernaría sobre toda la tierra (Daniel 2:39).",
+            "p2": "El bronce, un metal fuerte, describió con precisión el poder militar de Grecia."
+          },
+          "symbols": {
+            "p1": "Bronce: Simboliza un imperio poderoso y expansivo, aunque menos glorioso que la plata o el oro."
+          }
+        },
+        "rome": {
+          "title": "Piernas de Hierro - Roma",
+          "history": {
+            "p1": "El Imperio Romano surgió como la siguiente potencia mundial dominante, conocido por su fuerza militar, sistema legal e infraestructura inigualables. Absorbió los reinos helenísticos.",
+            "p2": "La fuerza férrea de Roma le permitió aplastar y someter otros reinos, estableciendo un vasto y duradero imperio que influyó profundamente en la civilización occidental."
+          },
+          "prophecy": {
+            "p1": "Las piernas de hierro representaron el Imperio Romano, que sería fuerte como el hierro y desmenuzaría y sujetaría todas las cosas (Daniel 2:40).",
+            "p2": "Las dos piernas también podrían simbolizar la eventual división del Imperio Romano en Oriente y Occidente."
+          },
+          "symbols": {
+            "p1": "Hierro: Denota la inmensa fuerza, durabilidad y poder aplastante del Imperio Romano."
+          }
+        },
+        "dividedKingdom": {
+          "title": "Pies de Hierro y Barro - Reinos Divididos de Europa",
+          "history": {
+            "p1": "Tras la caída del Imperio Romano, Europa fue invadida por varias tribus bárbaras, lo que llevó a la fragmentación del imperio en numerosos reinos más pequeños.",
+            "p2": "Los intentos de reunificar Europa, ya sea por la fuerza o por matrimonios interraciales, han fracasado sistemáticamente, cumpliendo la profecía de que los reinos no se unirían."
+          },
+          "prophecy": {
+            "p1": "Los pies y los dedos de los pies, en parte de hierro y en parte de barro cocido, representaron un reino dividido que sería en parte fuerte y en parte débil (Daniel 2:41-43).",
+            "p2": "La mezcla de hierro y barro simboliza la incapacidad de estos reinos para unirse permanentemente, una característica observada en la Europa post-romana."
+          },
+          "symbols": {
+            "p1": "Hierro y Barro: Representa el paisaje político fragmentado e inestable de Europa después de la caída de Roma, con diferentes fortalezas y debilidades, y sin unidad duradera."
+          }
+        },
+        "heavenKingdom": {
+          "title": "La Piedra - El Reino Eterno de Dios",
+          "history": {
+            "p1": "Después de los reinos divididos, una piedra cortada no con mano humana golpea la estatua en sus pies, pulverizando todos los imperios anteriores.",
+            "p2": "Esta piedra crece hasta convertirse en una gran montaña que llena toda la tierra, representando el establecimiento de un reino eterno por Dios mismo."
+          },
+          "prophecy": {
+            "p1": "La piedra cortada no con mano humana representa el reino eterno de Dios, que destruirá todos los reinos terrenales y permanecerá para siempre (Daniel 2:44-45).",
+            "p2": "Este reino no será dejado a otro pueblo, sino que desmenuzará y consumirá a todos estos reinos, y él permanecerá para siempre."
+          },
+          "symbols": {
+            "p1": "Piedra: Simboliza el reino divino, eterno e indestructible de Dios que reemplazará a todos los imperios humanos."
+          }
+        }
       }
     },
     "chapter3": {

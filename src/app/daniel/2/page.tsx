@@ -20,6 +20,8 @@ import {
 import Statue from "@/components/Statue";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
+import { Content } from "./Content";
+import { RenderTextContent } from "./RenderTextContent";
 
 enum SectionsChapter2 {
   History = "History",
@@ -35,6 +37,53 @@ const Chapter2 = () => {
     SectionsChapter2.History,
   );
   const t = useTranslations();
+
+  const renderSectionContent = (section: SectionsChapter2) => {
+    const kingdomContent = Content[getIdentifierKey(identifier)];
+    const title = kingdomContent.title;
+
+    const contentKey = section.toLowerCase();
+    const contentArray =
+      kingdomContent[contentKey as keyof typeof kingdomContent];
+
+    if (
+      Array.isArray(contentArray) &&
+      contentArray.every((item) => typeof item === "string")
+    ) {
+      const itemClassName =
+        section === SectionsChapter2.Verses ? "italic" : undefined;
+      return (
+        <RenderTextContent
+          title={title}
+          content={contentArray}
+          itemClassName={itemClassName}
+        />
+      );
+    }
+
+    return null;
+  };
+
+  const getIdentifierKey = (
+    identifier: StatueIdentifiers,
+  ): keyof typeof Content => {
+    switch (identifier) {
+      case StatueIdentifiers.Babylon:
+        return "babylon";
+      case StatueIdentifiers.MedoPersia:
+        return "medoPersia";
+      case StatueIdentifiers.Greece:
+        return "greece";
+      case StatueIdentifiers.Rome:
+        return "rome";
+      case StatueIdentifiers.DividedKingdom:
+        return "dividedKingdom";
+      case StatueIdentifiers.HeavenKingdom:
+        return "heavenKingdom";
+      default:
+        return "babylon"; // Fallback
+    }
+  };
 
   const identifierToMap = {
     [StatueIdentifiers.Babylon]: BabylonMap,
@@ -119,7 +168,7 @@ const Chapter2 = () => {
               className={`static left-0 top-0 flex w-full flex-col overflow-y-auto overflow-x-hidden rounded-md`}
             >
               <div className="relative flex-auto text-sm lg:text-base">
-                {selectedSection}
+                {renderSectionContent(selectedSection)}
               </div>
               {selectedSection === SectionsChapter2.Maps && (
                 <div className="flex space-x-4 p-2">
