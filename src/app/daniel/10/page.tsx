@@ -15,8 +15,18 @@ const Chapter10 = () => {
         <p className="mb-3">{t("daniel.chapter10.description")}</p>
         <div className="rounded-lg">
           <h2 className="mb-5 text-2xl font-extrabold">
-            {t("daniel.chapter10.interesting_facts")}
+            {t("daniel.chapter10.interesting_facts_title")}
           </h2>
+          <ul className="text-gray-700 dark:text-gray-300 list-inside list-disc space-y-2">
+            {Object.values(
+              t.raw("daniel.chapter10.interesting_facts") as Record<
+                string,
+                string
+              >,
+            ).map((fact, index) => (
+              <li key={index}>{fact}</li>
+            ))}
+          </ul>
         </div>
       </div>
     </DefaultLayout>

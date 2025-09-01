@@ -114,53 +114,171 @@
     },
     "chapter3": {
       "title": "Fiery Furnace",
-      "description": "The test of faith in the fiery furnace",
-      "interesting_facts": "Interesting facts"
+      "description": "In Daniel Chapter 3, King Nebuchadnezzar commands all to worship a golden image. Shadrach, Meshach, and Abednego refuse, remaining loyal to God. They are thrown into a blazing furnace, but God protects them. Nebuchadnezzar sees a fourth figure in the fire and is astonished. He calls them out, unhurt, and praises God, promoting them in Babylon. This chapter highlights faith in adversity and God's power to deliver.",
+      "interesting_facts": {
+        "fact1": "The golden image was likely over 90 feet tall and 9 feet wide.",
+        "fact2": "The furnace was heated seven times hotter than usual, a symbolic number emphasizing its extreme heat.",
+        "fact3": "The three friends were bound when thrown in, but appeared unbound in the fire, showing God's miraculous power.",
+        "fact4": "Nebuchadnezzar recognized a 'fourth figure' in the furnace, which he described as 'like a son of the gods,' often interpreted as a pre-incarnate appearance of Jesus.",
+        "fact5": "This event led Nebuchadnezzar to issue a decree that no one should speak against the God of Shadrach, Meshach, and Abednego."
+      },
+      "interesting_facts_title": "Interesting Facts"
     },
     "chapter4": {
-      "title": "God's People",
-      "description": "Nebuchadnezzar's transformation",
-      "interesting_facts": "Interesting facts"
+      "title": "Nebuchadnezzar's Humiliation",
+      "description": "In Daniel Chapter 4, King Nebuchadnezzar recounts a dream that troubles him, which Daniel interprets. The dream foretells that Nebuchadnezzar will be driven from human society, live like an animal for seven periods of time, and then have his sanity restored, recognizing God's supreme authority. Despite Daniel's warning to humble himself, Nebuchadnezzar boasts about his kingdom, and the prophecy is fulfilled. After living as a beast, he eventually praises and honors the Most High, acknowledging His eternal dominion.",
+      "interesting_facts": {
+        "fact1": "This chapter is unique as it is largely a personal testimony from King Nebuchadnezzar himself.",
+        "fact2": "The 'seven periods of time' are generally understood as seven years.",
+        "fact3": "Nebuchadnezzar's hair grew like eagles' feathers and his nails like birds' claws during his madness.",
+        "fact4": "His humiliation served to teach him and all rulers that God is sovereign over all earthly kingdoms.",
+        "fact5": "Upon his restoration, Nebuchadnezzar becomes a worshiper of the Most High God, a remarkable conversion."
+      },
+      "interesting_facts_title": "Interesting Facts"
     },
     "chapter5": {
-      "title": "The Writing on the Wall",
-      "description": "Belshazzar's feast",
-      "interesting_facts": "Interesting facts"
+      "title": "Belshazzar's Feast and the Writing on the Wall",
+      "description": "In Daniel Chapter 5, King Belshazzar of Babylon holds a great feast, using sacred vessels taken from the temple in Jerusalem to drink wine and praise idols. Suddenly, a mysterious hand appears and writes a message on the palace wall. Terrified, Belshazzar summons his wise men, but none can interpret the writing. The queen mother suggests calling Daniel, renowned for his wisdom. Daniel rebukes Belshazzar for his arrogance and explains the divine message: 'Mene, Mene, Tekel, Parsin,' which means God has numbered his kingdom, he has been weighed and found wanting, and his kingdom will be divided and given to the Medes and Persians. That very night, Belshazzar is killed, and Darius the Mede takes over the kingdom.",
+      "interesting_facts": {
+        "fact1": "Belshazzar was not actually the king, but co-regent with his father Nabonidus.",
+        "fact2": "The feast was a lavish affair, demonstrating the Babylonians' overconfidence despite the Medo-Persian army besieging the city.",
+        "fact3": "The phrase 'the writing is on the wall' originates from this chapter, meaning an impending doom is evident.",
+        "fact4": "Daniel boldly confronts Belshazzar with his pride and failure to learn from Nebuchadnezzar's humbling.",
+        "fact5": "The prophecy of the handwriting is fulfilled immediately, emphasizing God's precise control over world empires."
+      },
+      "interesting_facts_title": "Interesting Facts"
     },
     "chapter6": {
-      "title": "The Sacrifice of Jesus",
-      "description": "Daniel in the lions' den",
-      "interesting_facts": "Interesting facts"
+      "title": "Daniel in the Lions' Den",
+      "description": "In Daniel Chapter 6, Daniel's faithfulness and wisdom lead to his promotion under King Darius. Other administrators, jealous of Daniel, conspire against him by tricking the king into issuing a decree that forbids prayer to any god or man except the king for thirty days. Daniel, however, continues his daily prayers to God. Consequently, he is thrown into a lions' den. God miraculously shuts the mouths of the lions, and Daniel is found unharmed the next morning. King Darius, overjoyed, orders Daniel's accusers and their families to be thrown into the den, where they are immediately devoured. Darius then issues a decree for all people in his kingdom to fear and reverence Daniel's God.",
+      "interesting_facts": {
+        "fact1": "Daniel was over 80 years old at the time of this event, demonstrating his lifelong commitment to God.",
+        "fact2": "The decree against prayer was a legal trap designed specifically to ensnare Daniel.",
+        "fact3": "Daniel's habit of praying three times a day with his windows open towards Jerusalem was a public declaration of his faith.",
+        "fact4": "King Darius was genuinely distressed by the decree and tried to find a way to save Daniel, but Medo-Persian law was immutable.",
+        "fact5": "God's intervention by sending an angel to shut the lions' mouths is a powerful display of divine protection."
+      },
+      "interesting_facts_title": "Interesting Facts"
     },
     "chapter7": {
-      "title": "The Kingdom of Prophets",
-      "description": "Vision of the four beasts",
-      "interesting_facts": "Interesting facts"
+      "title": "Daniel's Vision of the Four Beasts",
+      "description": "In Daniel Chapter 7, Daniel receives a prophetic vision of four great beasts rising from the sea, representing a sequence of world empires. The first beast is like a lion with eagle's wings, symbolizing Babylon. The second is like a bear, raised on one side with three ribs in its mouth, representing Medo-Persia. The third is like a leopard with four wings and four heads, symbolizing Greece. The fourth beast is terrifying and powerful, with iron teeth and ten horns, representing the Roman Empire. From among these horns, a 'little horn' emerges, having eyes like a man and a mouth speaking great boasts. This vision provides a different, yet complementary, perspective to Nebuchadnezzar's statue dream, focusing on the character and actions of these world powers from a divine viewpoint.",
+      "interesting_facts": {
+        "fact1": "The vision takes place in the first year of Belshazzar's reign, much earlier than the events of chapter 5.",
+        "fact2": "The sea often symbolizes peoples, multitudes, nations, and languages in prophetic imagery.",
+        "fact3": "Each beast is described with characteristics that align with the historical empires they represent (Babylon, Medo-Persia, Greece, Rome).",
+        "fact4": "The 'little horn' is a significant prophetic figure, often interpreted as an oppressive power that persecutes God's people.",
+        "fact5": "Unlike the statue dream, this vision emphasizes the destructive and oppressive nature of earthly empires from God's perspective, culminating in the establishment of God's eternal kingdom."
+      },
+      "interesting_facts_title": "Interesting Facts",
+      "beasts": {
+        "lion": {
+          "title": "Lion with Eagle's Wings - Babylon",
+          "description": "The first beast, a lion with eagle's wings, represents the Babylonian Empire (605-539 BC). The lion symbolizes Babylon's strength and ferocity, while the eagle's wings denote its swift conquests under Nebuchadnezzar. Later, its wings were plucked, and it was made to stand on two feet like a man and given a human mind, signifying the empire's decline and Nebuchadnezzar's period of madness and subsequent humbling before God.",
+          "nation": "Babylon"
+        },
+        "bear": {
+          "title": "Bear Raised on One Side - Medo-Persia",
+          "description": "The second beast, a bear raised up on one side with three ribs in its mouth, represents the Medo-Persian Empire (539-331 BC). The bear's strength signifies the empire's power, while being raised on one side indicates the Persian dominance over the Medes. The three ribs in its mouth symbolize three major conquests: Lydia, Babylon, and Egypt, which were devoured by the empire.",
+          "nation": "Medo-Persia"
+        },
+        "leopard": {
+          "title": "Leopard with Four Wings and Four Heads - Greece",
+          "description": "The third beast, a leopard with four wings and four heads, represents the Grecian Empire (331-168 BC). The leopard's speed symbolizes Alexander the Great's swift conquests across vast territories. The four wings further emphasize this rapidity. After Alexander's death, his empire was divided among his four leading generals (the Diadochi), represented by the four heads, who established the Ptolemaic (Egypt), Seleucid (Syria and Mesopotamia), Lysimachian (Thrace and Asia Minor), and Cassander (Macedonia and Greece) kingdoms.",
+          "nation": "Greece"
+        },
+        "dreadfulBeast": {
+          "title": "Dreadful and Terrifying Beast - Rome",
+          "description": "The fourth beast, dreadful and terrifying, exceedingly strong with large iron teeth, ten horns, and trampling everything underfoot, represents the Roman Empire (168 BC - 476 AD and beyond). Its iron teeth signify Rome's immense military power and its ability to crush and conquer nations. The ten horns represent the division of the Roman Empire into ten smaller kingdoms in Western Europe, which laid the foundation for modern European nations. This beast was unlike any other, emphasizing Rome's unique and enduring influence.",
+          "nation": "Rome"
+        },
+        "littleHorn": {
+          "title": "Little Horn - Papal Rome / Antichrist",
+          "description": "From among the ten horns of the fourth beast emerges a 'little horn', which had eyes like a man and a mouth speaking great boasts. This 'little horn' is often interpreted in a dual prophecy, primarily as papal Rome, which rose to power among the divided kingdoms of Europe, speaking blasphemies and persecuting the saints. It is also seen as a precursor or type of the Antichrist, who will rise in the end times with similar characteristics of arrogance, blasphemy, and persecution against God's people, seeking to change times and laws.",
+          "nation": "Papal Rome / Antichrist"
+        }
+      }
     },
     "chapter8": {
-      "title": "The Return of Jesus",
-      "description": "Vision of the ram and goat",
-      "interesting_facts": "Interesting facts"
+      "title": "Daniel's Vision of the Ram and Goat",
+      "description": "In Daniel Chapter 8, Daniel receives a vision of a ram with two horns and a male goat with a single prominent horn. The ram, which grew great, was struck down by the goat, which became exceedingly great. The great horn of the goat was broken, and in its place, four prominent horns arose. From one of them came a little horn that grew exceedingly great toward the south, the east, and the Beautiful Land. This little horn even exalted itself to the Prince of the host and cast down the sanctuary and truth. The vision concludes with an explanation by Gabriel, revealing that the ram represents the kings of Media and Persia, and the male goat represents Greece, with its large horn being the first king (Alexander the Great). The four horns that emerge afterward represent four kingdoms that will arise from his nation, but not with his power. The little horn represents an insolent king who will bring destruction.",
+      "interesting_facts": {
+        "fact1": "This vision occurs two years after the vision of the four beasts (Chapter 7), during the reign of Belshazzar.",
+        "fact2": "The ram with two horns represents the Medo-Persian Empire, and its two horns symbolize the union of Media and Persia.",
+        "fact3": "The shaggy goat represents Greece, and the large horn between its eyes is Alexander the Great.",
+        "fact4": "The four horns that replace the broken great horn represent the division of Alexander's empire among his four generals.",
+        "fact5": "The 'little horn' in this chapter is distinct from the one in Daniel 7, and is commonly interpreted as Antiochus IV Epiphanes, a historical figure who desecrated the Jerusalem temple."
+      },
+      "interesting_facts_title": "Interesting Facts",
+      "timeline": {
+        "event1": "The decree of Artaxerxes to restore and rebuild Jerusalem",
+        "event2": "Reconstruction of Jerusalem completed (49 years)",
+        "event3": "Jesus is anointed at His baptism",
+        "event4": "Crucifixion of Jesus in the middle of the week",
+        "event5": "The gospel is taken to the Gentiles",
+        "event6": "Beginning of the purification of the heavenly sanctuary",
+        "button70weeks": "70 weeks",
+        "button1810years": "1810 years",
+        "button7weeks": "7 weeks",
+        "button69weeks": "69 weeks",
+        "button1week": "1 week",
+        "buttonhalfweek1": "1/2 week",
+        "buttonhalfweek2": "1/2 week",
+        "backToOverview": "Back to Overview",
+        "description2300": "The vision of the 2,300 evenings and mornings represents a significant prophetic period culminating in the cleansing of the heavenly sanctuary.",
+        "description70": "The prophecy of the 70 weeks (490 years) focuses on the coming of the Messiah and the destiny of Jerusalem and the Jewish people.",
+        "description1": "The final week of the 70-week prophecy is divided into two halves, focusing on Jesus' ministry and the early church.",
+        "description1810": "The period of 1810 years highlights the transition from the Jewish dispensation to the Gentile mission and the ongoing work of God's people.",
+        "currentTimelapse": "Current Timelapse: {timelapse} years"
+      }
     },
     "chapter9": {
-      "title": "Jesus' Sacrifice to Save the World",
-      "description": "The prophecy of seventy weeks",
-      "interesting_facts": "Interesting facts"
+      "title": "Daniel's Prayer and the Seventy Weeks",
+      "description": "In Daniel Chapter 9, Daniel earnestly prays for his people, Israel, confessing their sins and appealing to God's mercy. While he is praying, the angel Gabriel appears to him and delivers the prophecy of the seventy weeks. This prophecy outlines a timeline of 490 years (70 weeks of years) concerning Jerusalem, the Messiah, and the ultimate end of transgression and sin. It details the coming of the Anointed One, His death, and the destruction of the city and the sanctuary, followed by a period of desolations until the consummation.",
+      "interesting_facts": {
+        "fact1": "Daniel's prayer is a model of intercession, combining confession, supplication, and reliance on God's character and promises.",
+        "fact2": "The seventy weeks prophecy is one of the most significant and detailed messianic prophecies in the Bible.",
+        "fact3": "Each 'week' in the prophecy is understood to represent seven years, totaling 490 years.",
+        "fact4": "The prophecy accurately predicted the time of Jesus' first coming and His atoning death.",
+        "fact5": "The 'abomination that causes desolation' is a key prophetic phrase often linked to future end-time events."
+      },
+      "interesting_facts_title": "Interesting Facts"
     },
     "chapter10": {
-      "title": "God's Work",
-      "description": "The vision of the glorious man",
-      "interesting_facts": "Interesting facts"
+      "title": "Daniel's Vision by the Tigris River",
+      "description": "In Daniel Chapter 10, Daniel receives a profound and terrifying vision by the Tigris River. He sees a glorious, angelic being who reveals that he has been delayed by the 'prince of the kingdom of Persia' for twenty-one days, until Michael, one of the chief princes, came to help him. The angelic being then explains that he has come to give Daniel understanding of what will happen to his people in the latter days. This chapter sets the stage for the detailed prophecies of chapters 11 and 12, highlighting the spiritual warfare that underlies earthly events and the divine assistance provided to God's messengers.",
+      "interesting_facts": {
+        "fact1": "This vision takes place in the third year of Cyrus, king of Persia, around 536 BC.",
+        "fact2": "Daniel's physical reaction to the vision (loss of strength, deep sleep) underscores the overwhelming nature of divine encounters.",
+        "fact3": "The 'prince of the kingdom of Persia' and 'Michael, one of the chief princes' are often interpreted as references to spiritual beings (demonic and angelic) influencing earthly kingdoms.",
+        "fact4": "The concept of spiritual warfare, where angels battle demonic forces for the destiny of nations, is clearly depicted here.",
+        "fact5": "The angelic messenger's words encourage Daniel not to be afraid, emphasizing his value in God's eyes as a 'man greatly beloved'."
+      },
+      "interesting_facts_title": "Interesting Facts"
     },
     "chapter11": {
-      "title": "The End",
-      "description": "Conflicts between kingdoms",
-      "interesting_facts": "Interesting facts"
+      "title": "Kings of the North and South",
+      "description": "Daniel Chapter 11 provides a detailed prophecy concerning the conflicts between the 'king of the North' and the 'king of the South', primarily interpreted as the Seleucid and Ptolemaic dynasties following the division of Alexander's empire. This chapter meticulously describes various battles, alliances, and political intrigues, highlighting specific historical events with remarkable accuracy. It then shifts to describe a contemptible person who will rise to power, performing abominable acts and persecuting God's people, often seen as a prophecy about Antiochus IV Epiphanes, and also containing elements that point to a future Antichrist figure.",
+      "interesting_facts": {
+        "fact1": "This chapter is renowned for its extraordinary historical accuracy, detailing events that occurred centuries after Daniel's time.",
+        "fact2": "The 'king of the North' and 'king of the South' are generally identified as the Seleucid kings (ruling Syria) and Ptolemaic kings (ruling Egypt), respectively.",
+        "fact3": "The prophecies include specific details about various kings, their marriages, battles, and strategies.",
+        "fact4": "A significant portion of the chapter (verses 21-35) is believed to refer to Antiochus IV Epiphanes, a historical persecutor of the Jews.",
+        "fact5": "The latter part of the chapter (from verse 36 onwards) is often seen as shifting to a prophecy about the Antichrist and end-time events, suggesting a dual fulfillment or a typology."
+      },
+      "interesting_facts_title": "Interesting Facts"
     },
     "chapter12": {
-      "title": "The Resurrection",
-      "description": "The time of the end",
-      "interesting_facts": "Interesting facts"
+      "title": "The Time of the End and the Resurrection",
+      "description": "In Daniel Chapter 12, the angel Gabriel reveals to Daniel the events of the end times. A time of distress unlike any before is mentioned, followed by the deliverance of God's people. The resurrection of the dead is prophesied, both to eternal life and to eternal contempt. Daniel is instructed to seal the words of the book until the time of the end, when many will go to and fro and knowledge will increase. The chapter concludes with a promise to Daniel that he will rest and then rise to receive his inheritance at the end of the days.",
+      "interesting_facts": {
+        "fact1": "Michael, the great prince, is mentioned as standing up to protect God's people in the time of the end.",
+        "fact2": "The prophecy speaks of a dual resurrection, emphasizing God's ultimate justice.",
+        "fact3": "The phrase 'many will go to and fro and knowledge will increase' is often interpreted as an increase in travel and understanding of prophecies as the end approaches.",
+        "fact4": "Specific timeframes of 1,290 and 1,335 days are given, which have been subject to much speculation and theological interpretation.",
+        "fact5": "The book of Daniel, sealed until the time of the end, reveals crucial truths for believers in the last days."
+      },
+      "interesting_facts_title": "Interesting Facts"
     }
   },
   "revelation": {

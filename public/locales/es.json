@@ -114,53 +114,171 @@
     },
     "chapter3": {
       "title": "Horno de fuego",
-      "description": "La prueba de fe en el horno ardiente",
-      "interesting_facts": "Datos interesantes"
+      "description": "En Daniel, Capítulo 3, el rey Nabucodonosor ordena a todos adorar una imagen de oro. Sadrac, Mesac y Abednego se niegan, permaneciendo leales a Dios. Son arrojados a un horno ardiente, pero Dios los protege. Nabucodonosor ve una cuarta figura en el fuego y se asombra. Los llama, ilesos, y alaba a Dios, promoviéndolos en Babilonia. Este capítulo destaca la fe en la adversidad y el poder de Dios para liberar.",
+      "interesting_facts": {
+        "fact1": "La imagen de oro probablemente medía más de 27 metros de alto y 2,7 metros de ancho.",
+        "fact2": "El horno fue calentado siete veces más de lo habitual, un número simbólico que enfatiza su calor extremo.",
+        "fact3": "Los tres amigos fueron atados al ser arrojados, pero aparecieron desatados en el fuego, mostrando el poder milagroso de Dios.",
+        "fact4": "Nabucodonosor reconoció una 'cuarta figura' en el horno, a quien describió como 'semejante a un hijo de los dioses', a menudo interpretada como una aparición pre-encarnada de Jesús.",
+        "fact5": "Este evento llevó a Nabucodonosor a emitir un decreto de que nadie debía hablar en contra del Dios de Sadrac, Mesac y Abednego."
+      },
+      "interesting_facts_title": "Datos Interesantes"
     },
     "chapter4": {
-      "title": "El pueblo de Dios",
-      "description": "La transformación de Nabucodonosor",
-      "interesting_facts": "Datos interesantes"
+      "title": "La Humillación de Nabucodonosor",
+      "description": "En Daniel, Capítulo 4, el rey Nabucodonosor relata un sueño que lo perturba, el cual Daniel interpreta. El sueño predice que Nabucodonosor será apartado de la sociedad humana, vivirá como un animal durante siete períodos de tiempo, y luego le será devuelta la cordura, reconociendo la autoridad suprema de Dios. A pesar de la advertencia de Daniel de humillarse, Nabucodonosor se jacta de su reino, y la profecía se cumple. Después de vivir como una bestia, finalmente alaba y honra al Altísimo, reconociendo Su dominio eterno.",
+      "interesting_facts": {
+        "fact1": "Este capítulo es único, ya que es en gran parte un testimonio personal del propio rey Nabucodonosor.",
+        "fact2": "Los 'siete períodos de tiempo' se entienden generalmente como siete años.",
+        "fact3": "El cabello de Nabucodonosor creció como plumas de águila y sus uñas como garras de aves durante su locura.",
+        "fact4": "Su humillación sirvió para enseñarle a él y a todos los gobernantes que Dios es soberano sobre todos los reinos terrenales.",
+        "fact5": "Tras su restauración, Nabucodonosor se convierte en un adorador del Dios Altísimo, una notable conversión."
+      },
+      "interesting_facts_title": "Datos Interesantes"
     },
     "chapter5": {
-      "title": "La mano en la pared",
-      "description": "El festín de Belsasar",
-      "interesting_facts": "Datos interesantes"
+      "title": "El Festín de Belsasar y la Escritura en la Pared",
+      "description": "En Daniel, Capítulo 5, el rey Belsasar de Babilonia celebra un gran festín, utilizando vasos sagrados tomados del templo de Jerusalén para beber vino y alabar ídolos. De repente, una mano misteriosa aparece y escribe un mensaje en la pared del palacio. Aterrorizado, Belsasar convoca a sus sabios, pero ninguno puede interpretar la escritura. La reina madre sugiere llamar a Daniel, reconocido por su sabiduría. Daniel reprende a Belsasar por su arrogancia y explica el mensaje divino: 'Mene, Mene, Tekel, Parsin', que significa que Dios ha contado su reino, ha sido pesado y hallado falto, y su reino será dividido y entregado a los medos y persas. Esa misma noche, Belsasar es asesinado, y Darío el Medo toma el reino.",
+      "interesting_facts": {
+        "fact1": "Belsasar no era realmente el rey, sino corregente con su padre Nabonido.",
+        "fact2": "El festín fue un derroche, demostrando la sobreconfianza de los babilonios a pesar de que el ejército medo-persa asediaba la ciudad.",
+        "fact3": "La frase 'la escritura en la pared' tiene su origen en este capítulo, significando que un destino inminente es evidente.",
+        "fact4": "Daniel confronta audazmente a Belsasar con su orgullo y su falta de aprendizaje de la humillación de Nabucodonosor.",
+        "fact5": "La profecía de la escritura se cumple inmediatamente, enfatizando el control preciso de Dios sobre los imperios mundiales."
+      },
+      "interesting_facts_title": "Datos Interesantes"
     },
     "chapter6": {
-      "title": "El sacrificio de Jesús",
-      "description": "Daniel en el foso de los leones",
-      "interesting_facts": "Datos interesantes"
+      "title": "Daniel en el Foso de los Leones",
+      "description": "En Daniel, Capítulo 6, la fidelidad y sabiduría de Daniel lo llevan a su promoción bajo el rey Darío. Otros administradores, celosos de Daniel, conspiran contra él engañando al rey para que emita un decreto que prohíbe orar a cualquier dios u hombre, excepto al rey, durante treinta días. Daniel, sin embargo, continúa sus oraciones diarias a Dios. En consecuencia, es arrojado a un foso de leones. Dios milagrosamente cierra la boca de los leones, y Daniel es encontrado ileso a la mañana siguiente. El rey Darío, lleno de alegría, ordena que los acusadores de Daniel y sus familias sean arrojados al foso, donde son devorados inmediatamente. Darío luego emite un decreto para que todas las personas de su reino teman y reverencien al Dios de Daniel.",
+      "interesting_facts": {
+        "fact1": "Daniel tenía más de 80 años en el momento de este evento, demostrando su compromiso de por vida con Dios.",
+        "fact2": "El decreto contra la oración fue una trampa legal diseñada específicamente para atrapar a Daniel.",
+        "fact3": "El hábito de Daniel de orar tres veces al día con las ventanas abiertas hacia Jerusalén era una declaración pública de su fe.",
+        "fact4": "El rey Darío estaba realmente angustiado por el decreto e intentó encontrar una manera de salvar a Daniel, pero la ley medo-persa era inmutable.",
+        "fact5": "La intervención de Dios al enviar un ángel para cerrar la boca de los leones es una poderosa demostración de protección divina."
+      },
+      "interesting_facts_title": "Datos Interesantes"
     },
     "chapter7": {
-      "title": "El reino de los profetas",
-      "description": "Visión de las cuatro bestias",
-      "interesting_facts": "Datos interesantes"
+      "title": "La Visión de Daniel de las Cuatro Bestias",
+      "description": "En Daniel, Capítulo 7, Daniel recibe una visión profética de cuatro grandes bestias que surgen del mar, representando una secuencia de imperios mundiales. La primera bestia es como un león con alas de águila, simbolizando Babilonia. La segunda es como un oso, levantado de un lado con tres costillas en su boca, representando Medo-Persia. La tercera es como un leopardo con cuatro alas y cuatro cabezas, simbolizando Grecia. La cuarta bestia es aterradora y poderosa, con dientes de hierro y diez cuernos, representando el Imperio Romano. De entre estos cuernos, surge un 'cuerno pequeño', que tiene ojos como de hombre y una boca que habla grandes cosas. Esta visión proporciona una perspectiva diferente, pero complementaria, al sueño de la estatua de Nabucodonosor, centrándose en el carácter y las acciones de estas potencias mundiales desde un punto de vista divino.",
+      "interesting_facts": {
+        "fact1": "La visión tiene lugar en el primer año del reinado de Belsasar, mucho antes de los eventos del capítulo 5.",
+        "fact2": "El mar a menudo simboliza pueblos, multitudes, naciones y lenguas en la imaginería profética.",
+        "fact3": "Cada bestia se describe con características que se alinean con los imperios históricos que representan (Babilonia, Medo-Persia, Grecia, Roma).",
+        "fact4": "El 'cuerno pequeño' es una figura profética significativa, a menudo interpretada como un poder opresivo que persigue al pueblo de Dios.",
+        "fact5": "A diferencia del sueño de la estatua, esta visión enfatiza la naturaleza destructiva y opresiva de los imperios terrenales desde la perspectiva de Dios, culminando con el establecimiento del reino eterno de Dios."
+      },
+      "interesting_facts_title": "Datos Interesantes",
+      "beasts": {
+        "lion": {
+          "title": "León con Alas de Águila - Babilonia",
+          "description": "La primera bestia, un león con alas de águila, representa el Imperio Babilónico (605-539 a.C.). El león simboliza la fuerza y ferocidad de Babilonia, mientras que las alas de águila denotan sus rápidas conquistas bajo Nabucodonosor. Más tarde, sus alas fueron arrancadas, y se le hizo ponerse de pie como un hombre y se le dio mente humana, lo que significa el declive del imperio y el período de locura de Nabucodonosor y su posterior humillación ante Dios.",
+          "nation": "Babilonia"
+        },
+        "bear": {
+          "title": "Oso Levantado de un Lado - Medo-Persia",
+          "description": "La segunda bestia, un oso levantado de un lado con tres costillas en su boca, representa el Imperio Medo-Persa (539-331 a.C.). La fuerza del oso significa el poder del imperio, mientras que estar levantado de un lado indica el dominio persa sobre los medos. Las tres costillas en su boca simbolizan tres grandes conquistas: Lidia, Babilonia y Egipto, que fueron devoradas por el imperio.",
+          "nation": "Medo-Persia"
+        },
+        "leopard": {
+          "title": "Leopardo con Cuatro Alas y Cuatro Cabezas - Grecia",
+          "description": "La tercera bestia, un leopardo con cuatro alas y cuatro cabezas, representa el Imperio Griego (331-168 a.C.). La velocidad del leopardo simboliza las rápidas conquistas de Alejandro Magno a través de vastos territorios. Las cuatro alas enfatizan aún más esta rapidez. Después de la muerte de Alejandro, su imperio se dividió entre sus cuatro principales generales (los Diádocos), representados por las cuatro cabezas, quienes establecieron los reinos ptolemaico (Egipto), seléucida (Siria y Mesopotamia), lisímaco (Tracia y Asia Menor) y de Casandro (Macedonia y Grecia).",
+          "nation": "Grecia"
+        },
+        "dreadfulBeast": {
+          "title": "Bestia Espantosa y Terrible - Roma",
+          "description": "La cuarta bestia, espantosa y terrible, extremadamente fuerte con grandes dientes de hierro, diez cuernos y que pisoteaba todo bajo sus pies, representa el Imperio Romano (168 a.C. - 476 d.C. y más allá). Sus dientes de hierro significan el inmenso poder militar de Roma y su capacidad para aplastar y conquistar naciones. Los diez cuernos representan la división del Imperio Romano en diez reinos más pequeños en Europa Occidental, lo que sentó las bases para las naciones europeas modernas. Esta bestia era diferente a cualquier otra, enfatizando la influencia única y duradera de Roma.",
+          "nation": "Roma"
+        },
+        "littleHorn": {
+          "title": "Cuerno Pequeño - Roma Papal / Anticristo",
+          "description": "De entre los diez cuernos de la cuarta bestia surge un 'cuerno pequeño', que tenía ojos como de hombre y una boca que hablaba grandes cosas. Este 'cuerno pequeño' a menudo se interpreta en una profecía dual, principalmente como la Roma papal, que ascendió al poder entre los reinos divididos de Europa, hablando blasfemias y persiguiendo a los santos. También se le ve como un precursor o tipo del Anticristo, quien surgirá en los últimos tiempos con características similares de arrogancia, blasfemia y persecución contra el pueblo de Dios, buscando cambiar los tiempos y las leyes.",
+          "nation": "Roma Papal / Anticristo"
+        }
+      }
     },
     "chapter8": {
-      "title": "El regreso de Jesús",
-      "description": "Visión del carnero y el macho cabrío",
-      "interesting_facts": "Datos interesantes"
+      "title": "Visión del Carnero y el Macho Cabrío",
+      "description": "En Daniel, Capítulo 8, Daniel recibe una visión de un carnero con dos cuernos y un macho cabrío con un solo cuerno prominente. El carnero, que se hizo grande, fue derribado por el macho cabrío, que se hizo aún más grande. El gran cuerno del macho cabrío se rompió, y en su lugar surgieron cuatro cuernos prominentes. De uno de ellos salió un cuerno pequeño que creció mucho hacia el sur, el este y la Tierra Gloriosa. Este cuerno pequeño se engrandeció incluso hasta el Príncipe del ejército celestial y echó por tierra el santuario y la verdad. La visión concluye con una explicación de Gabriel, revelando que el carnero representa a los reyes de Media y Persia, y el macho cabrío a Grecia, con su gran cuerno siendo el primer rey (Alejandro Magno). Los cuatro cuernos que surgen después representan cuatro reinos que surgirán de su nación, pero no con su poder. El cuerno pequeño representa a un rey insolente que traerá destrucción.",
+      "interesting_facts": {
+        "fact1": "Esta visión ocurre dos años después de la visión de las cuatro bestias (Capítulo 7), durante el reinado de Belsasar.",
+        "fact2": "El carnero con dos cuernos representa al Imperio Medo-Persa, y sus dos cuernos simbolizan la unión de Media y Persia.",
+        "fact3": "El macho cabrío peludo representa a Grecia, y el gran cuerno entre sus ojos es Alejandro Magno.",
+        "fact4": "Los cuatro cuernos que reemplazan al gran cuerno roto representan la división del imperio de Alejandro entre sus cuatro generales.",
+        "fact5": "El 'cuerno pequeño' de este capítulo es distinto al de Daniel 7, y se interpreta comúnmente como Antíoco IV Epífanes, una figura histórica que profanó el templo de Jerusalén."
+      },
+      "interesting_facts_title": "Datos Interesantes",
+      "timeline": {
+        "event1": "El decreto de Artajerjes para restaurar y reedificar Jerusalén",
+        "event2": "Reconstrucción de Jerusalén completada (49 años)",
+        "event3": "Jesús es ungido en su bautismo",
+        "event4": "Crucifixión de Jesús a mitad de la semana",
+        "event5": "El evangelio es llevado a los gentiles",
+        "event6": "Inicio de la purificación del santuario celestial",
+        "button70weeks": "70 semanas",
+        "button1810years": "1810 años",
+        "button7weeks": "7 semanas",
+        "button69weeks": "69 semanas",
+        "button1week": "1 semana",
+        "buttonhalfweek1": "1/2 semana",
+        "buttonhalfweek2": "1/2 semana",
+        "backToOverview": "Volver a la vista general",
+        "description2300": "La visión de las 2,300 tardes y mañanas representa un período profético significativo que culmina con la purificación del santuario celestial.",
+        "description70": "La profecía de las 70 semanas (490 años) se centra en la venida del Mesías y el destino de Jerusalén y el pueblo judío.",
+        "description1": "La última semana de la profecía de las 70 semanas se divide en dos mitades, centrándose en el ministerio de Jesús y la iglesia primitiva.",
+        "description1810": "El período de 1810 años destaca la transición de la dispensación judía a la misión gentil y la obra continua del pueblo de Dios.",
+        "currentTimelapse": "Tiempo actual: {timelapse} años"
+      }
     },
     "chapter9": {
-      "title": "El sacrificio de Jesús para salvar al mundo",
-      "description": "La profecía de las setenta semanas",
-      "interesting_facts": "Datos interesantes"
+      "title": "La Oración de Daniel y las Setenta Semanas",
+      "description": "En Daniel, Capítulo 9, Daniel ora fervientemente por su pueblo, Israel, confesando sus pecados y apelando a la misericordia de Dios. Mientras ora, el ángel Gabriel se le aparece y le entrega la profecía de las setenta semanas. Esta profecía describe una línea de tiempo de 490 años (70 semanas de años) concerniente a Jerusalén, el Mesías y el fin último de la transgresión y el pecado. Detalla la venida del Ungido, Su muerte y la destrucción de la ciudad y el santuario, seguido por un período de desolaciones hasta la consumación.",
+      "interesting_facts": {
+        "fact1": "La oración de Daniel es un modelo de intercesión, combinando confesión, súplica y confianza en el carácter y las promesas de Dios.",
+        "fact2": "La profecía de las setenta semanas es una de las profecías mesiánicas más significativas y detalladas de la Biblia.",
+        "fact3": "Cada 'semana' en la profecía se entiende que representa siete años, lo que suma un total de 490 años.",
+        "fact4": "La profecía predijo con precisión el tiempo de la primera venida de Jesús y Su muerte expiatoria.",
+        "fact5": "La 'abominación desoladora' es una frase profética clave a menudo vinculada a futuros eventos del fin de los tiempos."
+      },
+      "interesting_facts_title": "Datos Interesantes"
     },
     "chapter10": {
-      "title": "La obra de Dios",
-      "description": "La visión del varón excelente",
-      "interesting_facts": "Datos interesantes"
+      "title": "La Visión de Daniel Junto al Río Tigris",
+      "description": "En Daniel, Capítulo 10, Daniel recibe una visión profunda y aterradora junto al río Tigris. Ve a un ser angelical glorioso que revela que ha sido retrasado por el 'príncipe del reino de Persia' durante veintiún días, hasta que Miguel, uno de los príncipes principales, vino a ayudarlo. El ser angelical luego explica que ha venido a darle a Daniel entendimiento de lo que sucederá a su pueblo en los últimos días. Este capítulo sienta las bases para las profecías detalladas de los capítulos 11 y 12, destacando la guerra espiritual que subyace a los eventos terrenales y la ayuda divina proporcionada a los mensajeros de Dios.",
+      "interesting_facts": {
+        "fact1": "Esta visión tiene lugar en el tercer año de Ciro, rey de Persia, alrededor del 536 a.C.",
+        "fact2": "La reacción física de Daniel a la visión (pérdida de fuerza, sueño profundo) subraya la naturaleza abrumadora de los encuentros divinos.",
+        "fact3": "El 'príncipe del reino de Persia' y 'Miguel, uno de los príncipes principales' a menudo se interpretan como referencias a seres espirituales (demoníacos y angelicales) que influyen en los reinos terrenales.",
+        "fact4": "El concepto de guerra espiritual, donde los ángeles luchan contra las fuerzas demoníacas por el destino de las naciones, se representa claramente aquí.",
+        "fact5": "Las palabras del mensajero angelical animan a Daniel a no tener miedo, enfatizando su valor a los ojos de Dios como un 'hombre muy amado'."
+      },
+      "interesting_facts_title": "Datos Interesantes"
     },
     "chapter11": {
-      "title": "El final",
-      "description": "Conflictos entre reinos",
-      "interesting_facts": "Datos interesantes"
+      "title": "Reyes del Norte y del Sur",
+      "description": "En Daniel, Capítulo 11, se presenta una profecía detallada sobre los conflictos entre el 'rey del Norte' y el 'rey del Sur', interpretados principalmente como las dinastías seléucida y ptolemaica después de la división del imperio de Alejandro. Este capítulo describe meticulosamente varias batallas, alianzas e intrigas políticas, destacando eventos históricos específicos con una precisión notable. Luego, se describe a una persona despreciable que ascenderá al poder, realizando actos abominables y persiguiendo al pueblo de Dios, a menudo visto como una profecía sobre Antíoco IV Epífanes, y que también contiene elementos que apuntan a una futura figura del Anticristo.",
+      "interesting_facts": {
+        "fact1": "Este capítulo es conocido por su extraordinaria precisión histórica, detallando eventos que ocurrieron siglos después del tiempo de Daniel.",
+        "fact2": "El 'rey del Norte' y el 'rey del Sur' se identifican generalmente como los reyes seléucidas (que gobernaban Siria) y los reyes ptolemaicos (que gobernaban Egipto), respectivamente.",
+        "fact3": "Las profecías incluyen detalles específicos sobre varios reyes, sus matrimonios, batallas y estrategias.",
+        "fact4": "Una porción significativa del capítulo (versículos 21-35) se cree que se refiere a Antíoco IV Epífanes, un perseguidor histórico de los judíos.",
+        "fact5": "La última parte del capítulo (desde el versículo 36 en adelante) a menudo se considera que se desplaza hacia una profecía sobre el Anticristo y los eventos del fin de los tiempos, sugiriendo un cumplimiento dual o una tipología."
+      },
+      "interesting_facts_title": "Datos Interesantes"
     },
     "chapter12": {
-      "title": "La resurrección",
-      "description": "El tiempo del fin",
-      "interesting_facts": "Datos interesantes"
+      "title": "El Tiempo del Fin y la Resurrección",
+      "description": "En Daniel, Capítulo 12, el ángel Gabriel revela a Daniel los eventos del tiempo del fin. Se menciona un tiempo de angustia como nunca lo ha habido, seguido de la liberación del pueblo de Dios. Se profetiza la resurrección de los muertos, tanto para vida eterna como para condenación eterna. Daniel recibe instrucciones de sellar las palabras del libro hasta el tiempo del fin, cuando muchos correrán de un lado a otro y el conocimiento aumentará. El capítulo concluye con una promesa a Daniel de que descansará y luego se levantará para recibir su heredad al final de los días.",
+      "interesting_facts": {
+        "fact1": "Se menciona a Miguel, el gran príncipe, como aquel que se levantará para proteger al pueblo de Dios en el tiempo del fin.",
+        "fact2": "La profecía habla de una resurrección dual, lo que subraya la justicia final de Dios.",
+        "fact3": "La frase 'muchos correrán de un lado a otro y el conocimiento aumentará' se interpreta a menudo como un aumento en los viajes y el entendimiento de las profecías al acercarse el fin.",
+        "fact4": "Se dan plazos específicos de 1,290 y 1,335 días, que han sido objeto de mucha especulación e interpretación teológica.",
+        "fact5": "El libro de Daniel, sellado hasta el tiempo del fin, revela verdades cruciales para los creyentes en los últimos días."
+      },
+      "interesting_facts_title": "Datos Interesantes"
     },
     "chapters": {
       "1": "Capítulo 1: Daniel y sus amigos",
